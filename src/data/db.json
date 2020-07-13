@@ -1,0 +1,115 @@
+{
+  "agreements": {
+    "typeId": 1,
+    "type": "agreements",
+    "title": "Договоры",
+    "items": [
+      {
+        "id": 1,
+        "title": "Договор 1",
+        "text": "Текст Договора 1",
+        "type": "agreements",
+        "typeId": 1
+      },
+      {
+        "id": 2,
+        "title": "Договор 2",
+        "text": "Текст Договора 2",
+        "type": "agreements",
+        "typeId": 1
+      },
+      {
+        "id": 3,
+        "title": "Договор 3",
+        "text": "Текст Договора 3",
+        "type": "agreements",
+        "typeId": 1
+      }
+    ]
+  },
+
+  "declarations": {
+    "typeId": 2,
+    "type": "declarations",
+    "title": "Декларации",
+    "items": [
+      {
+        "id": 4,
+        "title": "Декларация 1",
+        "text": "Текст Декларации 1",
+        "type": "declarations",
+        "typeId": 2
+      },
+      {
+        "id": 5,
+        "title": "Декларация 2",
+        "text": "Текст Декларации 2",
+        "type": "declarations",
+        "typeId": 2
+      },
+      {
+        "id": 6,
+        "title": "Декларация 3",
+        "text": "Текст Декларации 3",
+        "type": "declarations",
+        "typeId": 2
+      }
+    ]
+  },
+  "letters": {
+    "typeId": 3,
+    "type": "letters",
+    "title": "Письма",
+    "items": [
+      {
+        "id": 7,
+        "title": "Письмо 1",
+        "text": "Текст Письма 1",
+        "type": "letters",
+        "typeId": 3
+      },
+      {
+        "id": 8,
+        "title": "Письмо 2",
+        "text": "Текст Письма 2",
+        "type": "letters",
+        "typeId": 3
+      },
+      {
+        "id": 9,
+        "title": "Письмо 3",
+        "text": "Текст Письма 3",
+        "type": "letters",
+        "typeId": 3
+      }
+    ]
+  },
+  "notifications": {
+    "typeId": 4,
+    "type": "notifications",
+    "title": "Извещения",
+    "items": [
+      {
+        "id": 10,
+        "title": "Извещение 1",
+        "text": "Текст Извещения 1",
+        "type": "notifications",
+        "typeId": 4
+      },
+      {
+        "id": 11,
+        "title": "Извещение 2",
+        "text": "Текст Извещения 2",
+        "type": "notifications",
+        "typeId": 4
+      },
+      {
+        "id": 12,
+        "title": "Извещение 3",
+        "text": "Текст Извещения 3",
+        "type": "notifications",
+        "typeId": 4
+      }
+    ]
+  }
+}
